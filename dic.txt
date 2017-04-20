@@ -1,0 +1,5 @@
+the ART
+man N
+buy V
+a ART
+car N
